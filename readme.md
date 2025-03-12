@@ -18,6 +18,6 @@ license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 ### Содержание:
 1. [Что такое Git](warpgit.md)
 
-2. 
+2. [История Git](histori.md)
 
 
