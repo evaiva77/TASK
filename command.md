@@ -1,4 +1,4 @@
-[<назад](setting.md) [*содержание*](readme.md) [вперед>](github.md)
+[<назад](setting.md) [*содержание*](readme.md) [вперед>](regulationcommit.md)
 
 ## Основные команды в Git
 ---
