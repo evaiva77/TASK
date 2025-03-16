@@ -1,5 +1,3 @@
-[<назад](setting.md) [*содержание*](readme.md) [вперед>](regulationcommit.md)
-
 ## Основные команды в Git
 ---
 
@@ -101,3 +99,5 @@
 
 **Откатываемся и удаляем все последующие коммиты**
 >git reset --hard commit_hash
+
+[<назад](setting.md) [*содержание*](readme.md) [вперед>](regulationcommit.md)
